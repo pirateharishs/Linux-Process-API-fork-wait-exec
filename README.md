@@ -21,7 +21,7 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 
 Test the C Program for the desired output. 
 
-# PROGRAM:
+## PROGRAM:
 ## NAME: HARISH S
 ## REG-NO:212223230071
 
@@ -59,7 +59,7 @@ int main(void)
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/pirateharishs/Linux-Process-API-fork-wait-exec/assets/166011385/5795bdf5-123a-48e4-b40f-fdbd1de0d7be)
 
